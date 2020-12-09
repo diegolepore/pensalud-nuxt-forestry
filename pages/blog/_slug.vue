@@ -66,6 +66,7 @@
           // get the end of the path, remove '.md'
           relPath = relPath[relPath.length - 1].slice(0, -3)
           sortedPaths.push(relPath)
+          return relPath
         })
         return {
           sortedPaths,
