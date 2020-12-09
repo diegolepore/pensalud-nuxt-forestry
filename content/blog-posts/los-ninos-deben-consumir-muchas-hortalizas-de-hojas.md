@@ -1,10 +1,12 @@
 ---
 author: Diana Rodríguez
-title: "¿Los niños deben consumir muchas hortalizas de hojas?"
+title: hortalizas de hojas
 date: 2020-12-09T23:00:00Z
 hero_image: "/acedera-rumex-acetosa-semillas.jpg"
 
 ---
+# ¿Los niños deben consumir muchas hortalizas de hojas?
+
 **Es muy frecuente el consumo de hortalizas de hojas en nuestra dieta, al tener un comensal en edad pediátrica también queremos incluirla en su dieta. ¿Pero sabemos en realidad cómo debemos hacerlo? sobre este tema quería escribir hoy, según las recomendaciones de la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN), pero lo quiero hacer de una manera entendible para que cada uno de vosotros lo compartan, así todos estaremos comiendo de forma muy saludable.**
 
 ***
@@ -66,29 +68,25 @@ Al aumentar el ion nitrito, este oxida el **hierro ferroso** de la hemoglobina a
 **¿Qué alimentos contienen nitratos?**
 
 * **El agua** que tomamos contiene nitratos, sin embargo los sistemas públicos de agua se analizan para asegurar que cumplen con los estándares de agua potable.
-
-
 * **Hortalizas y verduras**, especialmente en las hortalizas de hoja verde,
-
-
 * Aditivos en **embutidos** y otros productos.
 
 La máxima concentración (> 100 ppm de nitrógeno en nitratos) se encuentra en la remolacha, las zanahorias, las espinacas, la calabaza y las judías verdes.
 
 Los lactantes que reciben lactancia materna no corren riesgo de intoxicación por nitratos aunque su madre ingiera agua con gran contenido en nitratos (hasta 100 ppm de nitrógeno en nitratos), ya que la concentración de nitratos no aumenta significativamente en la leche.
 
-****
+***
 
 **¿ Solo a los niños les afecta o también a los adultos?**
 
 Cuando la **metahemoglobina** ya está formada, es reconvertida en hemoglobina, tanto en adultos como en niños, mediante una enzima denominada **metahemoglobina-reductasa.** No obstante, esta enzima presenta una menor actividad en bebés y niños pequeños (aproximadamente la mitad que la de los adultos). Es por ello que los niños son particularmente susceptibles a la **metahemoglobinemia**. Esta susceptibilidad es mayor si concurre una **infección bacteriana gastrointestinal**, ya que se potencia la reducción de los nitratos a nitritos y la subsiguiente formación de **metahemoglobina.**
 
-****
+***
 
 **¿Recomendaciones del consumo de hortalizas de hojas?**
 
-Según la **Autoridad Europea de Seguridad Alimentaria (EFSA)**   
- las recomendaciones del consumo de hortalizas de hojas son las siguientes:
+Según la **Autoridad Europea de Seguridad Alimentaria (EFSA)**  
+las recomendaciones del consumo de hortalizas de hojas son las siguientes:
 
 **Espinacas y acelgas**
 
@@ -97,23 +95,11 @@ Según la **Autoridad Europea de Seguridad Alimentaria (EFSA)**
 \- Se recomienda no incluirlas antes del primer año de vida. En caso de incluirlas en los purés antes del año procurar que:
 
 * **En niños de 3 a 6 meses:**
-
-
 * Recordando siempre que la lactancia es la alimentación recomendada.
-
-
 * Si se incorpora una alimentación complementaria el contenido de espinacas y/o acelgas no sea mayor de 25 gramos/día.
-
-
 * **En niños de 6 a 12 meses:**
-
-
 * El contenido de espinacas y/o acelgas no sea mayor de 35 gramos/día.
-
-
 * **En niños entre 1 y 3 años:**
-
-
 * No dar más de media ración de acelgas o espinacas (45 gramos/día. Cantidad a modo de guarnición).
 * No dar espinacas y/o acelgas a niños que presenten infecciones bacterianas gastrointestinales.
 
@@ -139,7 +125,7 @@ Factores como la luz influyen en los niveles de nitratos.
 
 Es importante llevar una alimentación balanceada, hay una gran cantidad de alimentos que tienen más beneficios que riesgos si se realiza de forma equilibrada. Puedes leer mucho más sobre el tema a través de estos links:
 
-****
+***
 
 ![](https://pensalud.webnode.es/_files/200000186-cb25dcb260/450/cultivo-de-espinacas.jpg)
 
